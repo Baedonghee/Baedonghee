@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=Baedonghee%20Profile&fontSize=90&animation=fadeIn&fontAlignY=38&fontColor=d6ace6)
+![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=Baedonghee%20Profile&fontSize=90&animation=fadeIn&fontAlignY=38&fontColor=ffffff)
 
 ### Hi there 👋   
 
