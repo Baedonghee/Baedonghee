@@ -17,6 +17,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baedonghee)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :mailbox_with_mail: Contacts
-- 📮  **Fomagran's email ...**[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:appleehdgml@gmail.com)](mailto:appleehdgml@gmail.com)
+- 📮  **Fomagran's email ...**[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:appleehdgml@gmail.com)](mailto:appleehdgml@gmail.com)  
 
 - 📒  **Fomagran's blog ...** [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://www.notion.so/donghee89/1246d24478f648a0838effd7f655d8b5)](https://www.notion.so/donghee89/1246d24478f648a0838effd7f655d8b5)
