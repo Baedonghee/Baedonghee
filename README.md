@@ -15,6 +15,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baedonghee)](https://github.com/anuraghazra/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Baedonghee)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### :mailbox_with_mail: Contacts
 - 📮  **Fomagran's email ...**[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:appleehdgml@gmail.com)](mailto:appleehdgml@gmail.com)  
 
